@@ -1,0 +1,172 @@
+SanskritTTS:
+total 12
+drwxrwxr-x 10 iitadmin iitadmin 4096 Jan 16 19:15 ..
+drwxrwxr-x  8 iitadmin iitadmin 4096 Jan  8 18:06 ProjectPingala
+drwxrwxr-x  3 iitadmin iitadmin 4096 May  6  2023 .
+
+SanskritTTS/ProjectPingala:
+total 112
+drwxrwxr-x 8 iitadmin iitadmin  4096 Jan  8 18:06 .
+drwxrwxr-x 2 iitadmin iitadmin  4096 Jun 22  2023 ckpt
+-rw-rw-r-- 1 iitadmin iitadmin  4738 May  7  2023 test.py
+drwxrwxr-x 4 iitadmin iitadmin  4096 May  7  2023 result
+drwxrwxr-x 2 iitadmin iitadmin  4096 May  6  2023 __pycache__
+-rwxrwxr-x 1 iitadmin iitadmin  5394 May  6  2023 config.py
+-rwxrwxr-x 1 iitadmin iitadmin 10266 May  6  2023 train.py
+drwxrwxr-x 4 iitadmin iitadmin  4096 May  6  2023 utils
+-rw-rw-r-- 1 iitadmin iitadmin  5879 May  6  2023 zikSAencoding.py
+drwxrwxr-x 3 iitadmin iitadmin  4096 May  6  2023 model
+-rw-rw-r-- 1 iitadmin iitadmin  2951 May  6  2023 normalize_dn.py
+-rw-rw-r-- 1 iitadmin iitadmin  1104 May  6  2023 normalize_hk.py
+-rw-rw-r-- 1 iitadmin iitadmin  2305 May  6  2023 preprocess.py
+-rw-rw-r-- 1 iitadmin iitadmin   319 May  6  2023 requirements.txt
+-rw-rw-r-- 1 iitadmin iitadmin   373 May  6  2023 convert.py
+drwxrwxr-x 2 iitadmin iitadmin  4096 May  6  2023 data
+-rw-rw-r-- 1 iitadmin iitadmin  4981 May  6  2023 dataloader.py
+-rw-rw-r-- 1 iitadmin iitadmin  2714 May  6  2023 dataset.py
+-rw-rw-r-- 1 iitadmin iitadmin  2536 May  6  2023 chedaka.py
+-rw-rw-r-- 1 iitadmin iitadmin  1070 May  6  2023 LICENSE
+-rw-rw-r-- 1 iitadmin iitadmin   976 May  6  2023 README.md
+drwxrwxr-x 3 iitadmin iitadmin  4096 May  6  2023 ..
+
+SanskritTTS/ProjectPingala/ckpt:
+total 376960
+drwxrwxr-x 8 iitadmin iitadmin     4096 Jan  8 18:06 ..
+-rw-r--r-- 1 iitadmin iitadmin 77230605 Jun 22  2023 checkpoint_step600000.pth
+-rw-r--r-- 1 iitadmin iitadmin 77230605 Jun 22  2023 ckpt_rama.pth
+drwxrwxr-x 2 iitadmin iitadmin     4096 Jun 22  2023 .
+-rw-r--r-- 1 iitadmin iitadmin 77230605 Jun 22  2023 ckpt_locsen.pth
+-rw-r--r-- 1 iitadmin iitadmin 77230605 Jun 22  2023 checkpoint_step600000_V1.pth
+-rw-rw-r-- 1 iitadmin iitadmin 77230605 May  6  2023 checkpoint_step600000_V0.pth
+
+SanskritTTS/ProjectPingala/result:
+total 896
+drwxrwxr-x 8 iitadmin iitadmin   4096 Jan  8 18:06 ..
+-rw-rw-r-- 1 iitadmin iitadmin  20394 Nov  9 20:05 600000.mp3
+-rw-r--r-- 1 iitadmin iitadmin 877858 Nov  9 20:05 600000.wav
+drwxrwxr-x 4 iitadmin iitadmin   4096 May  7  2023 .
+drwxrwxr-x 2 iitadmin iitadmin   4096 May  6  2023 600000
+drwxrwxr-x 2 iitadmin iitadmin   4096 May  6  2023 500000
+
+SanskritTTS/ProjectPingala/result/600000:
+total 8708
+drwxrwxr-x 4 iitadmin iitadmin   4096 May  7  2023 ..
+drwxrwxr-x 2 iitadmin iitadmin   4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin 833858 May  6  2023 11.wav
+-rw-rw-r-- 1 iitadmin iitadmin 778858 May  6  2023 10.wav
+-rw-rw-r-- 1 iitadmin iitadmin 778858 May  6  2023 9.wav
+-rw-rw-r-- 1 iitadmin iitadmin 767858 May  6  2023 8.wav
+-rw-rw-r-- 1 iitadmin iitadmin 822858 May  6  2023 7.wav
+-rw-rw-r-- 1 iitadmin iitadmin 833858 May  6  2023 6.wav
+-rw-rw-r-- 1 iitadmin iitadmin 888858 May  6  2023 5.wav
+-rw-rw-r-- 1 iitadmin iitadmin 789858 May  6  2023 4.wav
+-rw-rw-r-- 1 iitadmin iitadmin 756858 May  6  2023 3.wav
+-rw-rw-r-- 1 iitadmin iitadmin 789858 May  6  2023 2.wav
+-rw-rw-r-- 1 iitadmin iitadmin 844858 May  6  2023 1.wav
+
+SanskritTTS/ProjectPingala/result/500000:
+total 9160
+drwxrwxr-x 4 iitadmin iitadmin   4096 May  7  2023 ..
+drwxrwxr-x 2 iitadmin iitadmin   4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin 579738 May  6  2023 7_all.png
+-rw-rw-r-- 1 iitadmin iitadmin 336553 May  6  2023 7_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin  65761 May  6  2023 7_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 591858 May  6  2023 7.wav
+-rw-rw-r-- 1 iitadmin iitadmin 330379 May  6  2023 6_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin 576563 May  6  2023 6_all.png
+-rw-rw-r-- 1 iitadmin iitadmin  71201 May  6  2023 6_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 591858 May  6  2023 6.wav
+-rw-rw-r-- 1 iitadmin iitadmin 532974 May  6  2023 5_all.png
+-rw-rw-r-- 1 iitadmin iitadmin 303440 May  6  2023 5_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin  65693 May  6  2023 5_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 569858 May  6  2023 5.wav
+-rw-rw-r-- 1 iitadmin iitadmin 402697 May  6  2023 4_all.png
+-rw-rw-r-- 1 iitadmin iitadmin 217148 May  6  2023 4_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin 182132 May  6  2023 3_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin  60248 May  6  2023 4_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 305858 May  6  2023 4.wav
+-rw-rw-r-- 1 iitadmin iitadmin  66271 May  6  2023 3_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 380932 May  6  2023 3_all.png
+-rw-rw-r-- 1 iitadmin iitadmin 217858 May  6  2023 3.wav
+-rw-rw-r-- 1 iitadmin iitadmin 397286 May  6  2023 2_all.png
+-rw-rw-r-- 1 iitadmin iitadmin 204782 May  6  2023 2_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin 392129 May  6  2023 1_spectrogram.png
+-rw-rw-r-- 1 iitadmin iitadmin  63830 May  6  2023 2_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 283858 May  6  2023 2.wav
+-rw-rw-r-- 1 iitadmin iitadmin 658230 May  6  2023 1_all.png
+-rw-rw-r-- 1 iitadmin iitadmin  69377 May  6  2023 1_alignment.png
+-rw-rw-r-- 1 iitadmin iitadmin 789858 May  6  2023 1.wav
+
+SanskritTTS/ProjectPingala/__pycache__:
+total 44
+drwxrwxr-x 8 iitadmin iitadmin 4096 Jan  8 18:06 ..
+drwxrwxr-x 2 iitadmin iitadmin 4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin 5067 May  6  2023 config.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 2252 May  6  2023 chedaka.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 2300 May  6  2023 normalize_dn.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 2232 May  6  2023 chedaka.cpython-310.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 5981 May  6  2023 dataloader.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 1027 May  6  2023 normalize.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 1030 May  6  2023 normalize_hk.cpython-39.pyc
+
+SanskritTTS/ProjectPingala/utils:
+total 28
+drwxrwxr-x 8 iitadmin iitadmin 4096 Jan  8 18:06 ..
+drwxrwxr-x 2 iitadmin iitadmin 4096 May  6  2023 __pycache__
+drwxrwxr-x 4 iitadmin iitadmin 4096 May  6  2023 .
+-rwxrwxr-x 1 iitadmin iitadmin 3496 May  6  2023 audio.py
+-rw-rw-r-- 1 iitadmin iitadmin 3851 May  6  2023 data.py
+-rwxrwxr-x 1 iitadmin iitadmin 3223 May  6  2023 plot.py
+drwxrwxr-x 3 iitadmin iitadmin 4096 May  6  2023 text
+
+SanskritTTS/ProjectPingala/utils/__pycache__:
+total 24
+drwxrwxr-x 2 iitadmin iitadmin 4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin 2977 May  6  2023 plot.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 4201 May  6  2023 audio.cpython-39.pyc
+drwxrwxr-x 4 iitadmin iitadmin 4096 May  6  2023 ..
+-rw-rw-r-- 1 iitadmin iitadmin 2762 May  6  2023 data.cpython-39.pyc
+
+SanskritTTS/ProjectPingala/utils/text:
+total 32
+drwxrwxr-x 2 iitadmin iitadmin 4096 May  6  2023 __pycache__
+drwxrwxr-x 3 iitadmin iitadmin 4096 May  6  2023 .
+drwxrwxr-x 4 iitadmin iitadmin 4096 May  6  2023 ..
+-rwxrwxr-x 1 iitadmin iitadmin 2447 May  6  2023 cleaners.py
+-rwxrwxr-x 1 iitadmin iitadmin 1847 May  6  2023 cmudict.py
+-rwxrwxr-x 1 iitadmin iitadmin 2025 May  6  2023 __init__.py
+-rwxrwxr-x 1 iitadmin iitadmin 2055 May  6  2023 numbers.py
+-rwxrwxr-x 1 iitadmin iitadmin  713 May  6  2023 symbols.py
+
+SanskritTTS/ProjectPingala/utils/text/__pycache__:
+total 28
+drwxrwxr-x 2 iitadmin iitadmin 4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin 2320 May  6  2023 cmudict.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin  781 May  6  2023 symbols.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 2199 May  6  2023 numbers.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin  908 May  6  2023 cleaners.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 2634 May  6  2023 __init__.cpython-39.pyc
+drwxrwxr-x 3 iitadmin iitadmin 4096 May  6  2023 ..
+
+SanskritTTS/ProjectPingala/model:
+total 36
+drwxrwxr-x 8 iitadmin iitadmin  4096 Jan  8 18:06 ..
+drwxrwxr-x 2 iitadmin iitadmin  4096 May  6  2023 __pycache__
+drwxrwxr-x 3 iitadmin iitadmin  4096 May  6  2023 .
+-rwxrwxr-x 1 iitadmin iitadmin  6626 May  6  2023 attention.py
+-rw-rw-r-- 1 iitadmin iitadmin  2154 May  6  2023 loss.py
+-rwxrwxr-x 1 iitadmin iitadmin 12070 May  6  2023 tacotron.py
+
+SanskritTTS/ProjectPingala/model/__pycache__:
+total 32
+drwxrwxr-x 2 iitadmin iitadmin  4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin  5370 May  6  2023 attention.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin  1803 May  6  2023 loss.cpython-39.pyc
+-rw-rw-r-- 1 iitadmin iitadmin 10049 May  6  2023 tacotron.cpython-39.pyc
+drwxrwxr-x 3 iitadmin iitadmin  4096 May  6  2023 ..
+
+SanskritTTS/ProjectPingala/data:
+total 12
+drwxrwxr-x 8 iitadmin iitadmin 4096 Jan  8 18:06 ..
+drwxrwxr-x 2 iitadmin iitadmin 4096 May  6  2023 .
+-rw-rw-r-- 1 iitadmin iitadmin 1312 May  6  2023 test_transcripts.txt
