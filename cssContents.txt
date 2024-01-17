@@ -1,0 +1,18 @@
+css:
+total 4320
+drwxrwxr-x 21 iitadmin iitadmin   4096 Jan 17 18:22 ..
+drwxrwxr-x  2 iitadmin iitadmin   4096 Jan  8 18:47 .
+-rw-rw-r--  1 iitadmin iitadmin 182503 May  7  2023 main.c4f015aa.css
+-rw-rw-r--  1 iitadmin iitadmin 459147 May  7  2023 main.c4f015aa.css.map
+-rw-rw-r--  1 iitadmin iitadmin 182010 Apr 26  2023 main.388d0b99.css
+-rw-rw-r--  1 iitadmin iitadmin 458184 Apr 26  2023 main.388d0b99.css.map
+-rw-r--r--  1 iitadmin iitadmin 426062 Apr 26  2023 main.05316287.css.map
+-rw-r--r--  1 iitadmin iitadmin 170217 Apr 26  2023 main.05316287.css
+-rw-r--r--  1 iitadmin iitadmin 170217 Apr 24  2023 main.888b9732.css
+-rw-r--r--  1 iitadmin iitadmin 426105 Apr 24  2023 main.888b9732.css.map
+-rw-rw-r--  1 iitadmin iitadmin 181790 Apr  4  2023 main.33092f6a.css
+-rw-rw-r--  1 iitadmin iitadmin 454724 Apr  4  2023 main.33092f6a.css.map
+-rw-rw-r--  1 iitadmin iitadmin 181136 Mar  6  2023 main.c5b7928b.css
+-rw-rw-r--  1 iitadmin iitadmin 453746 Mar  6  2023 main.c5b7928b.css.map
+-rw-rw-r--  1 iitadmin iitadmin 181100 Feb 11  2023 main.37458a6a.css
+-rw-rw-r--  1 iitadmin iitadmin 452956 Feb 10  2023 main.37458a6a.css.map

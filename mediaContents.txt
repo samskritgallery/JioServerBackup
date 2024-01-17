@@ -1,0 +1,14 @@
+media:
+total 3900
+drwxrwxr-x 21 iitadmin iitadmin    4096 Jan 17 18:24 ..
+drwxrwxr-x  2 iitadmin iitadmin    4096 Jan 17 18:24 .
+-rw-rw-r--  1 iitadmin iitadmin       0 Jan 17 18:24 mediaContents.txt
+-rw-rw-r--  1 iitadmin iitadmin   60188 Mar  1  2023 Logo.6b4a9c71.jpg
+-rw-rw-r--  1 iitadmin iitadmin    1615 Feb 11  2023 repeat.svg
+-rw-rw-r--  1 iitadmin iitadmin    1650 Feb 11  2023 go.svg
+-rw-rw-r--  1 iitadmin iitadmin    3336 Feb 11  2023 atobdark.svg
+-rw-rw-r--  1 iitadmin iitadmin 1232541 Feb 10  2023 Third.4498d22e031b3f147ebf.jpg
+-rw-rw-r--  1 iitadmin iitadmin  532817 Feb 10  2023 Second.c5304373e75dbdd1312a.jpg
+-rw-rw-r--  1 iitadmin iitadmin  359400 Feb 10  2023 Shobhika-Regular.7b3e1ae1ec89a539b464.otf
+-rw-rw-r--  1 iitadmin iitadmin  341052 Feb 10  2023 Shobhika-Bold.3171cb24c014c9485fb0.otf
+-rw-rw-r--  1 iitadmin iitadmin 1436670 Feb 10  2023 First.4cd344ebff8bfb69290c.jpg

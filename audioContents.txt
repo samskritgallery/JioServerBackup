@@ -1,0 +1,154 @@
+audio:
+total 35348
+drwxrwxr-x 21 iitadmin iitadmin     4096 Jan 17 18:24 ..
+drwxrwxr-x  2 iitadmin iitadmin     4096 May  6  2023 tts
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 .
+drwxrwxr-x  2 iitadmin iitadmin     4096 Apr 26  2023 BV_UPG_MIM_UMIM_AV_IG_SVS
+drwxrwxr-x  2 iitadmin iitadmin     4096 Apr 26  2023 BV_UPG_MIM_UMIM_AV_IG_SP
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 23  2023 BV_SH_SS_PS_MD
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 17  2023 BV_UPG_YOG_YS
+-rwxrwxr-x  1 iitadmin iitadmin 33826689 Feb 11  2023 gita-chap-1(mp3cut.net).mp3
+-rw-rw-r--  1 iitadmin iitadmin  2290759 Feb 11  2023 Lilavati.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_NY_NYS_NVNYYK_PG_TKS_TKSD
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_NY_NYS_NVNYYK_PG_TKS
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_PG_VS
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_PG_VC
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_PG_SL
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP_VVS
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_MG_BMS_SB
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_UPG_MIM_UMIM_AV_MG_BMS
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_SH_SS_PS_RV
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 BV_GN_LVG
+
+audio/tts:
+total 768
+-rw-rw-r--  1 iitadmin iitadmin  20394 Nov  9 20:05 600000.mp3
+drwxrwxr-x  2 iitadmin iitadmin   4096 May  6  2023 .
+-rwxrwxrwx  1 iitadmin iitadmin 756858 May  6  2023 filetobetts.wav
+drwxrwxr-x 18 iitadmin iitadmin   4096 May  6  2023 ..
+
+audio/BV_UPG_MIM_UMIM_AV_IG_SVS:
+total 3176
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 3240018 Apr 26  2023 SC1:1.mp3
+drwxrwxr-x  2 iitadmin iitadmin    4096 Apr 26  2023 .
+
+audio/BV_UPG_MIM_UMIM_AV_IG_SP:
+total 4572
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 4670692 Apr 26  2023 SC1:1.mp3
+drwxrwxr-x  2 iitadmin iitadmin    4096 Apr 26  2023 .
+
+audio/BV_SH_SS_PS_MD:
+total 58264
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 23  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 23080960 Feb 23  2023 SC1:2.mp3
+-rw-rw-r--  1 iitadmin iitadmin 36571972 Feb 23  2023 SC1:1.mp3
+
+audio/BV_UPG_YOG_YS:
+total 31512
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+drwxrwxr-x  2 iitadmin iitadmin    4096 Feb 17  2023 .
+-rw-r--r--  1 iitadmin iitadmin 3811644 Feb 17  2023 SC1:4.mp3
+-rw-r--r--  1 iitadmin iitadmin 5320009 Feb 17  2023 SC1:2.mp3
+-rw-r--r--  1 iitadmin iitadmin 5587891 Feb 17  2023 SC1:3.mp3
+-rw-r--r--  1 iitadmin iitadmin 4518145 Feb 17  2023 SC1:1.mp3
+-rw-rw-r--  1 iitadmin iitadmin 2435863 Feb 11  2023 SC1:4-old.mp3
+-rw-rw-r--  1 iitadmin iitadmin 3742361 Feb 11  2023 SC1:3-old.mp3
+-rw-rw-r--  1 iitadmin iitadmin 3582101 Feb 11  2023 SC1:2-old.mp3
+-rw-rw-r--  1 iitadmin iitadmin 3247101 Feb 11  2023 SC1:1-old.mp3
+
+audio/BV_UPG_NY_NYS_NVNYYK_PG_TKS_TKSD:
+total 14544
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 7441762 Feb 11  2023 SC1:1_PCID:2_CID:0.mp3
+drwxrwxr-x  2 iitadmin iitadmin    4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 7441762 Feb 11  2023 SC1:1-SC2:0_PCID:0_CID:1.1.mp3
+
+audio/BV_UPG_NY_NYS_NVNYYK_PG_TKS:
+total 53520
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin  3439803 Feb 11  2023 SC1:5.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin  3758497 Feb 11  2023 SC1:4.mp3
+-rw-rw-r--  1 iitadmin iitadmin 13658354 Feb 11  2023 SC1:3.mp3
+-rw-rw-r--  1 iitadmin iitadmin  8277680 Feb 11  2023 SC1:2.mp3
+-rw-rw-r--  1 iitadmin iitadmin  3546382 Feb 11  2023 SC1:1_PCID:1_CID:1to8.mp3
+-rw-rw-r--  1 iitadmin iitadmin  3546382 Feb 11  2023 SC1:1.mp3
+-rw-rw-r--  1 iitadmin iitadmin 18562760 Feb 11  2023 SC1:1-4_PCID:0_CID:1to112.mp3
+
+audio/BV_UPG_MIM_UMIM_AV_PG_VS:
+total 21536
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 22042121 Feb 11  2023 SC1:1-1_PCID:0_CID:1to15.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 .
+
+audio/BV_UPG_MIM_UMIM_AV_PG_VC:
+total 29632
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 30334431 Feb 11  2023 SC1:1-1_PCID:0_CID:1to49.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 .
+
+audio/BV_UPG_MIM_UMIM_AV_PG_SL:
+total 29248
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 14969252 Feb 11  2023 SC1:1-1_PCID:0_CID:1to20.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 14968372 Feb 11  2023 SC1:1-1_PCID:0_CID:1to20-orig.mp3
+
+audio/BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP_VVS:
+total 18136
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 4639346 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.2.2.mp3
+drwxrwxr-x  2 iitadmin iitadmin    4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 4639346 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.2.1.mp3
+-rw-rw-r--  1 iitadmin iitadmin 4639346 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.1.2.mp3
+-rw-rw-r--  1 iitadmin iitadmin 4639346 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.1.1.mp3
+
+audio/BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP:
+total 4184
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+drwxrwxr-x  2 iitadmin iitadmin    4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 1068929 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.2.mp3
+-rw-rw-r--  1 iitadmin iitadmin 1068929 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.2.1.mp3
+-rw-rw-r--  1 iitadmin iitadmin 1068929 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.2.2.mp3
+-rw-rw-r--  1 iitadmin iitadmin 1068929 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.1.mp3
+
+audio/BV_UPG_MIM_UMIM_AV_MG_BMS_SB:
+total 13104
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 6703019 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.2.mp3
+drwxrwxr-x  2 iitadmin iitadmin    4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 6703019 Feb 11  2023 SC1:1-SC2:1-SC3:1_PCID:0_CID:1.1.mp3
+
+audio/BV_UPG_MIM_UMIM_AV_MG_BMS:
+total 43560
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin  1079337 Feb 11  2023 SC1:2-SC2:8.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin  2920528 Feb 11  2023 SC1:2-SC2:7.mp3
+-rw-rw-r--  1 iitadmin iitadmin  2068837 Feb 11  2023 SC1:2-SC2:5.mp3
+-rw-rw-r--  1 iitadmin iitadmin  2436598 Feb 11  2023 SC1:2-SC2:6.mp3
+-rw-rw-r--  1 iitadmin iitadmin  2612271 Feb 11  2023 SC1:1-SC2:3.mp3
+-rw-rw-r--  1 iitadmin iitadmin  1725658 Feb 11  2023 SC1:1-SC2:4.mp3
+-rw-rw-r--  1 iitadmin iitadmin  2107178 Feb 11  2023 SC1:1-SC2:2.mp3
+-rw-rw-r--  1 iitadmin iitadmin  2056854 Feb 11  2023 SC1:1-SC2:1.mp3
+-rw-rw-r--  1 iitadmin iitadmin  6663459 Feb 11  2023 SC1:1-SC2:1-SC3:1to11_PCID:0_CID:1to31.mp3
+-rw-rw-r--  1 iitadmin iitadmin  3669789 Feb 11  2023 SC1:1-SC2:1-SC3:1to11_PCID:0_CID:1to31-error.mp3
+-rw-rw-r--  1 iitadmin iitadmin 17232889 Feb 11  2023 SC1:1-2-SC2:1-8-SC3:1-86_PCID:0_CID:1to291-orig.mp3
+
+audio/BV_SH_SS_PS_RV:
+total 26024
+drwxrwxr-x 18 iitadmin iitadmin     4096 May  6  2023 ..
+-rw-rw-r--  1 iitadmin iitadmin 14408097 Feb 11  2023 SC1:2_CID:96-115.mp3
+drwxrwxr-x  2 iitadmin iitadmin     4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin  5291362 Feb 11  2023 SC1:1_CID:1-10.mp3
+-rw-rw-r--  1 iitadmin iitadmin  6934712 Feb 11  2023 SC1:1-2_PCID:0_CID:1-10and96-115.mp3
+
+audio/BV_GN_LVG:
+total 2248
+drwxrwxr-x 18 iitadmin iitadmin    4096 May  6  2023 ..
+drwxrwxr-x  2 iitadmin iitadmin    4096 Feb 11  2023 .
+-rw-rw-r--  1 iitadmin iitadmin 2290759 Feb 11  2023 SC1:1.mp3
